@@ -1,7 +1,7 @@
 # Security-Policies for organisation: Reboot Games
 
 ## What are the risks?
-#### The risks for the organisation reboot games is that people
+#### The risks for the organisation reboot games i can 
 ## Who are the risks?
 #### 
 ## Risk assessment procedures
