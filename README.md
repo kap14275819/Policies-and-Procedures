@@ -9,3 +9,19 @@
 ## Data protection processes and regulations
 
 ## Disaster recovery plan with justification
+
+notes: 
+Outline of business:
+-number of staff
+-structure
+-hardware/software used
+-nature of work
+
+Risks
+-group risks
+-physical 
+-data
+-social engineering
+
+security procedures
+
