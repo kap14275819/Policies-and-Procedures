@@ -4,17 +4,19 @@
 ## Outline of business:
 #### The business that will be outlined will be Reboot Games, the business is a games production company that focuses on rebooting older titles and then applying different modern aspects to it to improve it more. To create and design these rebooted games, there must be the required software and hardware that will allow the company to reboot the games and finish off its projects. Some of the hardware and software will be expensive as it will be needed to run and create the rebooted games that might require better graphics for it to run. The number of staff that are apart of Reboot Games is 15, each staff member uses the same system and the same software that is to create the games. The company has two owners, and 13 workers, each worker has a specific role within the company, this then helps the company function as a team as each member also has different tasks to each of the projects and also this allows completion of work to a sustainable rate.
 
--number of staff
--structure
--hardware/software used
--nature of work
 
-Risks
--group risks
--physical 
--data
--social engineering
-This repo will be about the business of reboot games, the business itself is a games production company that focuses on rebooting older titles and making them more modern, this means that in order to design the games, there must be the required software and hardware to allow the company to complete it's tasks and projects. The hardware and software that the company uses is very expensive and some hardware is more fragile. The number of staff inside the business is 15, each person uses the same systems and same software inside the workplace. The company has two owners , one manager and 12 workers, each one has a specific role within the company, this helps the company function well and keeps work completion to a healthy rate.
+## Threats in an organisation:
+#### In an organisation, there are many threats that could affect the company from loss of data and other problems. These threats can come from anywhere such as hackers trying to gain access to the system by sending in a virus of some kind to one of the employees. Organisations must know how to prevent these exploits from happening such as a natural disaster, internal leaks and ethical hacking. Natural disasters such as a fire/flood or earthquake/tsunami or even a power cut can be averted as the data can be stored in several locations so that if the data will be lost including with the hardware this then won't be as big of a problem as the data will still be available but the hardware will have to be replaced.
+#### Internal leaks and ethical hacking is one of the most popular types of threats that an organisation may face as these sometimes happen on a regular basis. Internal leaks are when an employee have some specific data that could be vital for the company, this might be for a new product that won't be shown till a certain date. This data can also be something that might expose the company on how they deal with their business or something that might make them lose a lot of revenue. Most companies usually have a non-disclosure form in which the employee must sign so that information cannot be leaked and if they're caught, then the company can sure that person from breaching the form. Accidental leaks can happen as well but is very rare as sometimes accidental leaks may cause more damage to the company. 
+#### Ethical hacking usually is done when a hacker is able to find a weakness within a certain part of the company, as it is an easy access point for them. There are also the different types of malicious software that hackers can use such as, Trojan Horse, Worms, Rootkit, etc. Some of these are hard to recognise such as the Trojan Horse as this one hides underneath other files that may go through a firewall and then destroy or corrupt data in the system. A good way of making sure this does not happen, anti-virus checks should occur once a day to make sure that there are not any that have entered the system. Also another way is to have a separate network that is secured from the public and also have a public one so that client may observe the product/service. 
+
+## Group Risks
+#### Risks in an organisation can be put into groups, these groups classify the types of risks 
+### Physical
+#### 
+### Data
+####
+### Social engineering
 
 
 
