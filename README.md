@@ -79,26 +79,24 @@
 #### This procedure may change depending on the time you have entered the college, whether an item has been found or if there is a bigger queue. If there is no queue at all then this step can be skipped entirely.
 
 ### Uploading work
-#### This procedure is done when business members upload work onto the internet in order for the owners of Reboot Games are able to view it, this is all done on a public domain but it is all subjected to copyright so that the work cannot be plagiarised 
-This process is where the business uploads all work onto the internet in order to be able to allow the owners of the business to view, this process is done on a public domain however is subject to copyright and plagiarism so the work cannot be copied. The work is always on the website but can be updated or manually removed, because of this it means that it is safe place where the work can be stored and only edited if the correct account is logged in.
+#### This procedure is done when business members upload work onto the internet in order for the owners of Reboot Games are able to view it, this is all done on a public domain but it is all subjected to copyright so that the work cannot be plagiarised. This work is all available on this site but can be updated or manually removed by the owner who has created that certain piece of work, because of this level of security means that it is a safe place for the work to be stored. The steps that are taken to access the site and uploard work are:
 
-Have computer system
-Turn on system and log in
-Enter any working search engine
-Enter website Github and login
-Enter repository of choice
-Update information on repository
-Accept changes
-By having a regular update on a public domain, it means that any needs for keeping information can be catered for as well as this it means that the work will remain safe and cannot be copied as it is covered by the copyright act.
+##### 1. Locate computer system that will be used
+##### 2. Turn on system and log into account
+##### 3. Use any working search engine
+##### 4. Search website 'Github' and login
+##### 5. Locate and enter repository of choice
+##### 6. Update information on repository
+##### 7. Accept changes
+#### By regularly checking the public domain and updating any changes needed allows you to make sure that your work is safe and cannot be copied as it is covered by the copyright act.
+#### If there is not internet to upload work then follow these steps instead:
 
-If there is not internet to upload work then follow these steps instead
-
-Turn on systen and log in
-Open up another text editor e.g. Microsoft Word
-Write down information that you want to update
-Save it on a reliable storage device
-Wait until internet connection is made
-Copy and paste information into repo and confirm
+##### Turn on systen and log in
+##### Open up another text editor e.g. Microsoft Word
+##### Write down information that you want to update
+##### Save it on a reliable storage device
+##### Wait until internet connection is made
+##### Copy and paste information into repo and confirm
 These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themeselves much safer.
 
 Increasing security in the business
