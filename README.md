@@ -101,7 +101,7 @@
 #### These procedures are all used to cover different potential vulnerabilities that a system can have, the different stages can only be bypassed if certain procedures are already met, for example unless an ID card is present, the door will not be unlocked. This shows how by having simple security procedures, a company can keep themselves protected.
 
 
-## Potential impact to IT security of incorrect configuration of firewall policies and third party VPNs
+## Incorrect configuration of firewall policies and third party VPNs
 
 ### Third party VPN's and internal leaks
 #### Every company and people at home can use a variety of methods in order to make sure that their system is protected, most of these methods are very common such as a password, firewall etc. One way that people will sometimes use is setting up a VPN (Virtual Party Network), these are used to allow safe data transfer online usually when sending data. These packets of data have to travel to public domains in order to have the data successfuly transferred. However, a VPN creates a private connection that involves two IP addresses connecting with each other, this then allows the two system to transfer files or data to each other. This then allows the files to go through a private network rather than putting it on a public domain in which it could be seen and tracked.
