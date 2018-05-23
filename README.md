@@ -20,41 +20,42 @@
 #### The final one which is Social Engineering and this is the risk group about social techniques, this is where the attacker will focus on the clients/users of the systems in order to gain access. The way the attack will do this is by either sending a Phishing email that will then acquire the details or by USB baiting which is when a USB is found or placed within a computer, which then the USB that is programmed to install a virus of some kind to then gain access. An easy way of doing this is to make sure that each employee does check emails or other items sent to them to make sure they do not allow anything to get into the system, or to use external USB/hard drives that then might have a virus.
 
 ## Security Procedures for Reboot Games
-#### In this section this will show all the different types of security procedures within Reboot Games and how they can be achieved. Different companies operate in unique ways that allow the their employees to operate within a set procedures, these are set in place for the employees so that the company can sustainable working as a unit. This allows better security within a company, such as one procedure that is in place for most companies is that each employee must have a form of ID when entering into the building, this means that only personal who have an ID have access to the building. This procedure allows the company to have a way of protecting it from unwanted individuals from entering the building.
+#### In this section this will show all the different types of security procedures within Reboot Games and how they can be achieved. Different companies operate in unique ways that allow the their employees to operate within a set procedures, these are set in place for the employees so that the company can sustainable working as a unit. This allows better security within a company, such as one procedure that is in place for most companies is that each employee must have a form of ID when entering into the building, this means that only personnel who have an ID have access to the building. This procedure allows the company to have a way of protecting it from unwanted individuals from entering the building.
 #### Similar procedures of security are also in place within Reboot Games, which also allows the protection for unwanted breaches of security, such as:
 
 
 ### ID pass:
 #### Within the college that Reboot Games is located in, there are a set of gates that each student/staff must get through in order to gain access into the college. To enter you must be in the system in case you have misplaced your card or you have your ID that can allow you access through the gates, the ID pass can be retrieved from the college itself and this also has identity onto the college system. There is no other way of bypassing this procedure, unless the individual would obtain one the ID cards that a student has misplaced. The procedure to enter the building is:
 
-##### Enter college
-##### Approach Gate
-##### Hold correct ID card in hand
-##### Place card over required area Wait for light to turn green
-##### wait for gates to open
-##### Walk through gate opening
-##### Wait for gate to close behind.
-##### The steps for this procedure are very basic and despite this they are important when taking safety into consideration, this is because 
-##### the simple method of ID cards can be very effective at stopping unwanted individuals or groups from coming into the college without being caught.
+##### 1. Enter college
+##### 2. Approach Gate
+##### 3. Hold correct ID card
+##### 4. Place card over required area and wait for light to turn green
+##### 5. Wait for gates to open
+##### 6. Walk through gate opening
+##### 7. Gate closes behind once walked through
+#### The steps for this procedure are very basic and despite this they are important when taking safety into consideration, this is because the simple method of ID cards can be very effective at stopping unwanted individuals or groups from coming into the college.
 
-In the event that the card is not registered or does is not correct then the following steps must be taken
+#### In the event that the card is misplaced or that the card is not working on the gates, the following steps must be taken:
 
-Enter college
-Go to reception desk and wait in front
-If there is queue then wait in queue
-Talk to receptionist about gaining entry
-Acquire either a guest pass or stamp to allow you through
-Continue to desired location
-Door Lock:
-Not only is an ID card required to get into the college, but also some of them can be used to unlock certain areas within the college, many doors in the college cannot be opened without a valid pass, this means only people that need to use the room and can use it responsibly will be able to enter them. People with ID passes that can come into the college may not be able to access these rooms, this is to make sure that only more trusted individuals can have access to the room. In order to gain access the ID card that you have must be authorized to access these areas, the procedure in order to access the door is:
+##### 1. Enter college
+##### 2. Walk to the reception desk and wait in front
+##### 3. If there is a queue then wait in the queue
+##### 4. Talk to receptionist about gaining entry
+##### 5. Acquire either a guest pass or stamp to allow you through
+##### 6. Continue to desired location
 
-Enter college
-Pass gate with normal measures
-Identify door that you want to access
-Ensure you have authroization to access the room
-Place ID card on required area
-Wait for red light to turn green
-Proceed to push or pull the door to open.
+### Door Lock:
+#### The ID card can be used for multiple areas also within the college, if you have the high level access to it. Many doors within the college cannot be opened unless a valid pass is acquired, this means that only personnel that have higher ranking access can enter through those doors. Some students are able to access certain areas as they have been granted access to use that specific room, everyone else is able to access the college but may not be able to access the other rooms unless granted access to it, this is to make sure that only more trusted individuals can have access to the room. In order to gain access you must have the authorized ID card to access these areas, to access certain doors the following steps must be taken:
+
+##### 1. Enter college
+##### 2. Pass gate with the previous steps
+##### 3. Identify door that you want to access
+##### 4. Ensure you have authroization to access the room
+##### 5. Place ID card on required area
+##### 6. Wait for red light to turn green and hear lock sound
+##### 7. Proceed to push or pull the door to open.
+#### 
 The steps are in place in order to make sure that anyone that would make it into the college would also then have another step in order to make it into more important areas, this increases the security of the area as it is another step for any attacker to bypass.
 
 In the event of not having a required ID in order to open the door, follow these steps instead
