@@ -50,36 +50,36 @@
 
 ##### 1. Enter college
 ##### 2. Pass gate with the previous steps
-##### 3. Identify door that you want to access
-##### 4. Ensure you have authroization to access the room
+##### 3. Locate door that you want to access
+##### 4. Ensure you have the authroization to access the room
 ##### 5. Place ID card on required area
 ##### 6. Wait for red light to turn green and hear lock sound
 ##### 7. Proceed to push or pull the door to open.
-#### 
-The steps are in place in order to make sure that anyone that would make it into the college would also then have another step in order to make it into more important areas, this increases the security of the area as it is another step for any attacker to bypass.
+#### This procedure is in place to make sure that if an individual would somehow gain access into the college then they would have to do another step to make it inot more areas within the college, this increases the security of the area as it is another step for any attacker to bypass.
 
-In the event of not having a required ID in order to open the door, follow these steps instead
+#### In the event of not having a required ID in order to open the door, the following steps must be taken:
 
-Enter college
-Pass gate with normal measures
-Identify door you want to access
-Find member of staff with required ID access
-Use their card or have them open the door for you
-Enter room
-Regular pat-downs:
-It is a security procedure that occurs occasionally and it is a pat-down, this is done by having metal detectors, in front of the gates, this allows staff to search students, this can help keep the college and reboot games safe as it can stop any dangerous items from entering the college and therefore reboot games. This search is done by the police and can be very beneficial for the college as having dangerous items within the college can cause many issues with people.
+##### 1. Enter college
+##### 2. Pass gate with the previous steps
+##### 3. Locate door you want to access
+##### 4. Find member of staff with required ID access
+##### 5. Wait for staff member to open the door for you
+##### 6. Enter room
 
-Enter college
-Wait in line
-Move forward in queue until reach metal detectors
-Listen to police's instructions
-Walk through the metal detector
-Be patted down
-Retrieve items
-Continue on through the day
-The procedure is possible to be changed within the different stages with the event of items being found or bigger or smaller queue. If this would happen then it would change to be dealing with that problem, otherwise if there isn't a queue you can skip that step entirely.
+### Regular Search:
+#### This is a security procedure that occurs a few times during the year. This is done by having a security team at the front of the main gates with metal detectors, this allows both staff and students to be searched to see if they are in possesion of any items in which should not be in the premises. This search is done by the local police and are very beneficial for the college and Reboot Games from not having any dangerous items that may cause problems. The steps that are taken to go through the search are:
 
-Uploading work
+##### 1. Enter college
+##### 2. Wait in queue
+##### 3. Move forward in queue until reach metal detectors
+##### 4. Follow police's instructions
+##### 5. Have bag searched if in possesion of one
+##### 6. Walk through the metal detector when told
+##### 7. Retrieve items once completed
+#### This procedure may change depending on the time you have entered the college, whether an item has been found or if there is a bigger queue. If there is no queue at all then this step can be skipped entirely.
+
+### Uploading work
+#### This procedure is done when business members upload work onto the internet in order for the owners of Reboot Games are able to view it, this is all done on a public domain but it is all subjected to copyright so that the work cannot be plagiarised 
 This process is where the business uploads all work onto the internet in order to be able to allow the owners of the business to view, this process is done on a public domain however is subject to copyright and plagiarism so the work cannot be copied. The work is always on the website but can be updated or manually removed, because of this it means that it is safe place where the work can be stored and only edited if the correct account is logged in.
 
 Have computer system
@@ -145,9 +145,9 @@ If a disaster occurs, it is important that the employees know exactly what they 
 Testing schedule
 By testing regularly it means that the business can see how the disaster recovery operates and they will be able to reflect on the work done by the business and how they delt with the disaster. It also prepares people for the disaster if it does occur and gives people an idea of how the process works ultimatly giving a higher chance of success if a disaster occurs.
 
-((((((((((
+### ((((((((((
 
-How to keep your system Secure
+## How to keep your system Secure
 
 Here i will show a list of things that you could do to try and keep your system secure:
 
