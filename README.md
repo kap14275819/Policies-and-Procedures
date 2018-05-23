@@ -142,6 +142,15 @@
 ### Defining roles to employees
 #### Whilst a disaster is occurring, it is important that each of the employees know exactly what they are doing so that more problems will not occur during the process. Giving each of the employees a specific role/task to do will then have the process more organised when diverting the disaster. By not defining roles to the employees will then not keep the process clean and organised, it will then cause chaos within the business as nobody knows what they have to do exactly.
 
+## Risk Assessment
+
+| Risk | Explanation | Danger | How To Prevent The Risk  |
+| ---- | -----------  | ------------------ | -------- |
+| Internal leaks | Data about the company leaked from and employee | High | Keep all data password protected and log whoever leaked the data |
+| Power Cut | Power cut from the national grid | Medium | Save back ups 24/7, tranfer back ups to servers |
+| Theft | Someone breaking in and stealing hardware/software | High | Making sure all doors are locked and alarms are set |
+| Viruses | The PCs having malicious software| High | Making sure all anti-virus software is updated |
+
 ## Testing schedule
 #### Having a testing schedule allows you to keep track regularly on all of the disaster recoveries that have happened before, this can also be used to reflect of the previous disasters to make sure it does not occur again. This also allows the preparation of employees as it can be checked on how well they dealt with the disaster and then this can be looked on to improve that so that it will give a higher chance of success when a disaster occurs.
 
