@@ -11,12 +11,12 @@
 #### Ethical hacking usually is done when a hacker is able to find a weakness within a certain part of the company, as it is an easy access point for them. There are also the different types of malicious software that hackers can use such as, Trojan Horse, Worms, Rootkit, etc. Some of these are hard to recognise such as the Trojan Horse as this one hides underneath other files that may go through a firewall and then destroy or corrupt data in the system. A good way of making sure this does not happen, anti-virus checks should occur once a day to make sure that there are not any that have entered the system. Also another way is to have a separate network that is secured from the public and also have a public one so that client may observe the product/service. 
 
 ## Group Risks
-#### Risks in an organisation can be put into groups, these groups classify the types of risks 
-### Physical
+#### Risks in an organisation can be put into groups, these groups classify the types of risks that affect an organisation, these groups are Physical, Data and Social Engineering.
+### Physical:
+#### Physical risks are involed with things that interact physically with the system or the user, for example a natural disaster such as fire/flood. This risk is physical as it physically burns the systems or floods through the building where the systems are, these risks do not happen very often and so the solutions for stopping this is just to back up the files and try and keep most of the hardware safe and together to prevent from becoming destroyed. Another risk can be a power cut which can affect when employees are working as this might turn off their systems when working which then cause work that is not saved to not exist anymore, which will affect in time to catch up with that work.
+### Data:
 #### 
-### Data
-####
-### Social engineering
+### Social Engineering:
 
 
 
