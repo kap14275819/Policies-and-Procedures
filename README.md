@@ -125,6 +125,31 @@
 
 ### NAT
 #### NAT or Network Address Translation is a method of giving a device that is within a private network a public address, this new address is correctly configured which then adds a layer of security. Since this now has a new IP address, the internal IP is hidden and once a network is accessed, this will then be accessed by the new public IP instead of the private one. This creates more security to the IP as this will then confuse the attackers at they will try to gain access but won't as the public address be covering the private one.
+## Data Protection Process and Regulations
+#### Reboot Games must make sure that the business abides by the General Data Protection Regulation and the Data Protection Act. Reboot  Games is labled as 'Data Controllers' and as such any laws and regulations pertaining to data protection must be followed exactly.
+#### The Data Proctection Act dictates that the company must have any sensitive and personal data always secure and only accessable to the person said information belongs to. The Data Protection Act classifies sensitive and personal data as the following:
+
+#### In this Act “sensitive personal data” means personal data consisting of information as to:
+
+##### 1. The racial or ethnic origin of the data subject
+##### 2. His political opinions
+##### 3. His religious beliefs or other beliefs of a similar nature
+##### 4. Whether he is a member of a trade union (within the meaning of the M1Trade Union and Labour Relations (Consolidation) Act 1992)
+##### 5. His physical or mental health or condition
+##### 6. His sexual life
+##### 7. The commission or alleged commission by him of any offence, or
+##### 8. Any proceedings for any offence committed or alleged to have been committed by him, the disposal of such proceedings or the sentence of any court in such proceedings.
+
+#### Anyone wanting to access personal or sensitive data will need to either (a). Provide 2 forms of photo identification to a member of staff to confirm their identity. or (b). if wanting access via telephone, have the member of staff on the phone confirm 2 different entries of data such as date of birth and a security question(s) set up by the user.
+
+### Procedures
+#### All physical data will be kept secure and separate from the main site. Access will be restricted to authorized personnel only.
+#### Any paperwork will be stored inside a locked container at all times.
+#### Employees will be instructed to destroy any paperwork or files that are no longer relevant or needed.
+#### Data backups will be performed on a regular basis
+#### Any computers storing sensitive data must have said data encrypted and regularly updated anti-virus software installed.
+#### All employees must change their passwords every 2 months.
+#### Any portable drives containing sensitive data must also be locked away with the paperwork.
 
 ## Disaster recovery within Reboot Games
 #### When dealing with risks in a business such as ethical hacking or a natural disaster and these damage the business in any major way, then there has to be some type of plan ready to make sure that this contained and managed so that it does not become catastrophic for the business. This will show some of the way to plan from disasters. 
